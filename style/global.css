@@ -1,0 +1,8 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&family=Roboto&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Praise&display=swap');
+
+.category .bullet {
+    font-size: 24px; /* Adjust the size as needed */
+    margin-right: 8px; /* Add some space between the bullet and text */
+  }
+  
